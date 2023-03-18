@@ -1,0 +1,11 @@
+.wrapperFilter {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.inputFilter {
+  width: 150px;
+  margin-bottom: 25px;
+}

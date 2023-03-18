@@ -1,0 +1,17 @@
+.contactsList {
+}
+
+.contactsText {
+  margin-right: 30px;
+  margin-bottom: 8px;
+}
+
+.contactsBtn {
+  width: 100px;
+  padding: 0px 10px;
+  cursor: pointer;
+}
+
+.contactsBtn:focus,
+.contactsBtn:hover {
+}
