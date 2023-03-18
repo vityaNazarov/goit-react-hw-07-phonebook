@@ -1,3 +1,0 @@
-const qwe = {
-  qwe: qwe,
-};
