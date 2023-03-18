@@ -1,0 +1,3 @@
+const qwe = {
+  qwe: qwe,
+};
