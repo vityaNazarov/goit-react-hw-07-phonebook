@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/159.2d4433da.chunk.css","mappings":"AAAA,6CACE,kBACF,CAEA,4CACE,cACF","sources":["pages/ImportantContactsPage/important-contacts-page.module.css"],"sourcesContent":[".contactsItem {\n  margin-bottom: 15px;\n}\n\n.contactsBtn {\n  cursor: pointer;\n}\n"],"names":[],"sourceRoot":""}
